@@ -1,16 +1,40 @@
-# React + Vite
+# Healthcare Dashboard UI (Practice Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Descrizione
 
-Currently, two official plugins are available:
+Questo progetto è una riproduzione a scopo di esercitazione di un design UI trovato su Dribbble.  
+L’obiettivo è stato quello di replicare il layout e la struttura grafica con alcune modifiche minime personali.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Il progetto è stato realizzato esclusivamente per pratica e per consolidare competenze frontend con React.
 
-## React Compiler
+Design originale di riferimento:  
+https://dribbble.com/shots/27424356-Healthcare-Dashboard-Design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Tecnologie utilizzate
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS
+- Flexbox / Grid
+
+---
+
+## 🎯 Obiettivi
+
+- Replicare un’interfaccia UI moderna da un design esistente
+- Migliorare precisione nella realizzazione di layout complessi
+- Allenare l’uso di componenti React riutilizzabili
+- Consolidare Vite come tool di sviluppo
+- Migliorare attenzione ai dettagli UI/UX
+
+---
+
+## 🧩 Struttura del progetto
+
+Il progetto è suddiviso in componenti React riutilizzabili e organizzato in modo semplice e modulare:
+
+- Layout principale della dashboard
+- Componenti UI (header, section, etc.)
